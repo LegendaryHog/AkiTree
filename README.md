@@ -16,6 +16,6 @@ Change file for reading tree on `AkiTree/AkiTree.txt`. In start of programm call
 
 1. If your Akinator cannot work correct and damaging dump of tree dont use `Push ()`.
 
-2. Try to not make infunny cringe, try to not hurt your collegs, try to not make double name in tree.
+2. Try to not make unfunny cringe hurting your collegs and making double name in tree.
 
-3. If yor edit tree right in filу you **must** follow this syntax rule.
+3. If yor edit tree right in file you **must** follow this syntax rules.
