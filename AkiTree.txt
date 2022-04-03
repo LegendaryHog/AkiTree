@@ -1,0 +1,38 @@
+
+{Teacher in MIPT?
+	{Performs obshesos?
+		{Parses two zero group problems per seminar?
+			{Zhabin}
+			{HOLLYn}
+		}
+		{Performs matan?
+			{Skubachevich}
+			{Ded}
+		}
+	}
+	{Animal?
+		{Lives in swapm?
+			{Ovcnikin}
+			{Barks?
+				{Yellow?
+					{Zheltaya}
+					{Chornaya}
+				}
+				{Poltorashka}
+			}
+		}
+		{Organized muder od Ded?
+			{Sosanya}
+			{Beatiful starosta?
+				{Masha}
+				{Perform shinus?
+					{Tima}
+					{Know your name?
+						{Ilya Mirkis}
+						{Filkin}
+					}
+				}
+			}
+		}
+	}
+}
