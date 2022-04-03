@@ -12,7 +12,7 @@ git clone https://github.com/LegendaryHog/AkiTree.git
 Include `AkiTree.h` in **main** file (if you include  in another file, you can take compilation error aboudouble definition)
 Change file for reading tree on `AkiTree/AkiTree.txt`. In start of programm call function `Pull ()` in end of programm `Push ()`.
 
-# !!!WARNING!!!
+# !!!WARNING!!! !!!ALLERT!!!
 
 1. If your Akinator cannot work correct and damaging dump of tree dont use `Push ()`.
 
