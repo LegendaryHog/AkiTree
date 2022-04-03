@@ -10,7 +10,10 @@
 		}
 		{Performs matan?
 			{Skubachevich}
-			{Ded}
+			{Likes My Little Pony?
+				{Vladimirov}
+				{Ded}
+			}
 		}
 	}
 	{Animal?
