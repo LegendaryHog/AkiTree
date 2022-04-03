@@ -12,7 +12,13 @@
 			}
 		}
 		{Performs matan?
-			{Skubachevich}
+			{Arabic?
+				{Petrovich}
+				{Programmer?
+					{Churbanov}
+					{Skubachevich}
+				}
+			}
 			{Likes My Little Pony?
 				{Vladimirov}
 				{Ded}
