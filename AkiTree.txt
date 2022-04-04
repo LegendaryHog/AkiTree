@@ -45,7 +45,7 @@
 				{Masha}
 				{Perform shinus?
 					{Tima}
-					{Know your name?
+					{Ask your name?
 						{Ilya Mirkis}
 						{Filkin}
 					}
