@@ -21,7 +21,10 @@
 			}
 			{Likes My Little Pony?
 				{Vladimirov}
-				{Ded}
+				{True Zhopa Contest System?
+					{Podlesnykh}
+					{Ded}
+				}
 			}
 		}
 	}
