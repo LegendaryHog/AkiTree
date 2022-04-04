@@ -10,7 +10,7 @@ void Pull (void)
 
 void Push (void)
 {
-    system ("git -C AkiTree/ add .\n");
+    system ("git -C AkiTree/ add AkiTree.txt\n");
     system ("git -C AkiTree/ commit -m \"Fun\"\n");
     system ("git -C AkiTree/ push origin master\n");
 }
