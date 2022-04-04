@@ -19,3 +19,7 @@ Change file for reading tree on `AkiTree/AkiTree.txt`. In start of programm call
 2. Try to not make unfunny cringe hurting your collegs and making double name in tree.
 
 3. If yor edit tree right in file you **must** follow this syntax rules.
+
+# Actual version of tree in graphviz.
+
+![A](https://github.com/LegendaryHog/AkiTree/blob/master/Aki_Dump0.png)
