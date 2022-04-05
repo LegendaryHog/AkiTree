@@ -2,7 +2,7 @@
 
 name: Test integrity
 
-on: [ pull-request ]
+on: [ pull_request ]
 
 jobs:
 
