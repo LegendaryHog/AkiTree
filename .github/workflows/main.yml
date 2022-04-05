@@ -16,7 +16,8 @@ jobs:
           ref: ${{ github.event.pull_request.head.ref }}
 
       - run: |
-          gcc test.c -o test &&
+          gcc testpullreq/test.c -o test &&
+          gcc testpullreq/main.c -o main &&
           ./test &&
           echo $?
 
