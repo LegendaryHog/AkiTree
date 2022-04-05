@@ -1,0 +1,23 @@
+
+
+name: Test integrity
+
+on: [ pull-request ]
+
+jobs:
+
+  test_integrity:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - run: |
+          gcc test.c -o test &&
+          ./test &&
+          echo $?
+
+
