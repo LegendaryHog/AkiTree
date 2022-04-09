@@ -5,7 +5,7 @@
 
 void Pull (void)
 {
-    system ("git -C AkiTree/ pull upstream master\n");
+    system ("git -C AkiTree/ pull --rebase upstream master\n");
 }
 
 void Push (void)
