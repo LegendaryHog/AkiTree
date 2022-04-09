@@ -26,7 +26,7 @@ And after this:
 ```
 git remote set-url origin <url on your forked repository>
 ```
-Include `AkiTree.h` in **main** file (if you include in another file, you can take compilation error aboudouble definition)
+Include `AkiTree.h` in **main** file (if you include in another file, you can take compilation error about double definition)
 Change file for reading tree on `AkiTree/AkiTree.txt`. In start of programm call function `Pull ()` in end of programm `Push ()`.
 
 # !!!WARNING!!! !!!ALLERT!!!
