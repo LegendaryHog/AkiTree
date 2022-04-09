@@ -16,13 +16,17 @@ In your directory print in command string (examples for Ubuntu):
 ```
 git clone git@github.com:LegendaryHog/AkiTree.git
 
+cd AKiTree
+
 git remote add upstream git@github.com:LegendaryHog/AkiTree.git
 
 hub fork git@github.com:LegendaryHog/AkiTree.git
-
+```
+And after this:
+```
 git remote set url origin <url on your forked repository>
 ```
-Include `AkiTree.h` in **main** file (if you include  in another file, you can take compilation error aboudouble definition)
+Include `AkiTree.h` in **main** file (if you include in another file, you can take compilation error aboudouble definition)
 Change file for reading tree on `AkiTree/AkiTree.txt`. In start of programm call function `Pull ()` in end of programm `Push ()`.
 
 # !!!WARNING!!! !!!ALLERT!!!
