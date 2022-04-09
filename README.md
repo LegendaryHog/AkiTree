@@ -8,6 +8,8 @@ In your directory print in command string (examples for Ubuntu):
 
 ```
 git clone https://github.com/LegendaryHog/AkiTree.git
+
+git remote add
 ```
 Include `AkiTree.h` in **main** file (if you include  in another file, you can take compilation error aboudouble definition)
 Change file for reading tree on `AkiTree/AkiTree.txt`. In start of programm call function `Pull ()` in end of programm `Push ()`.
