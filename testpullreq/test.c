@@ -1,3 +1,4 @@
+#include "test.h"
 size_t SkipSpaces (const char* text)
 {
     size_t i = 0;
@@ -58,7 +59,7 @@ size_t RecScanTree (const char* text)
         i++;
     }
     i += SkipSpaces (text + i);
-    i += ScanArg (text + i, node);
+    i += ScanArg (text + i);
     i += SkipSpaces (text + i);
     if (text[i] == '}')
     {
@@ -109,4 +110,28 @@ size_t RecScanTree (const char* text)
         i++;
         return i;
     }
+}
+
+char* Read (const char* filename, long* ptrbufsz)
+{
+    FILE* text = fopen (filename, "r");
+    assert (text != NULL);
+    fseek (text, 0, SEEK_SET);
+    long start = ftell (text);
+    fseek (text, 0, SEEK_END);
+    long end = ftell (text);
+    fseek (text, 0, SEEK_SET);
+    *ptrbufsz = end - start;
+
+    char* buffer = (char*) calloc (*ptrbufsz + 1, sizeof (char));
+    fread (buffer, sizeof (char), *ptrbufsz, text);
+    fclose (text);
+    return buffer;
+}
+
+size_t ScanArg (const char* text)
+{
+    size_t len = 0;
+    for (len = 0; isalpha (text[len]) || text[len] == ' ' || text[len] == '\t'|| isdigit (text[len]) || text[len] == '?'; len++) {;}
+    return len;
 }
