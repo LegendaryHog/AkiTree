@@ -21,7 +21,10 @@
 				{ Petrovich}
 				{ Fucker? 
 					{ Churbanov}
-					{ Skubachevich}
+					{ gives the whole semester on 1 seminar?
+						{ Orlov}
+						{ Skubachevich}
+					}
 				}
 			}
 			{ Likes My Little Pony? 
