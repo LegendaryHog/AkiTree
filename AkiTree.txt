@@ -1,56 +1,56 @@
 
-{Teacher in MIPT? 
-	{Performs obshesos? 
-		{Parses two zero group problems per seminar? 
-			{Zhabin}
-			{Fucks students on labs?
-				{All things fly in space? 
-					{Potapov}
-					{Alyabieva}
+{ Teacher in MIPT?  
+	{ Performs obshesos?  
+		{ Parses two zero group problems per seminar?  
+			{ Zhabin }
+			{ Fucks students on labs? 
+				{ All things fly in space?  
+					{ Potapov }
+					{ Alyabieva }
 				}
-				{HOLLYn}
+				{ HOLLYn }
 			}
 		}
-		{Performs matan? 
-			{Arabic? 
-				{Petrovich}
-				{Fucker? 
-					{Churbanov}
-					{Skubachevich}
+		{ Performs matan?  
+			{ Arabic?  
+				{ Petrovich }
+				{ Fucker?  
+					{ Churbanov }
+					{ Skubachevich }
 				}
 			}
-			{Likes My Little Pony? 
-				{Vladimirov}
-				{True Zhopa Contest System? 
-					{Podlesnykh}
-					{Ded}
+			{ Likes My Little Pony?  
+				{ Vladimirov }
+				{ True Zhopa Contest System?  
+					{ Podlesnykh }
+					{ Ded }
 				}
 			}
 		}
 	}
-	{Animal? 
-		{Lives in swapm? 
-			{can qua?
-				{Zaba}
-				{Ovcnikin}
+	{ Animal?  
+		{ Lives in swapm?  
+			{ can qua? 
+				{ Zaba }
+				{ Ovcnikin }
 			}
-			{Barks? 
-				{Yellow? 
-					{Zheltaya}
-					{Chornaya}
+			{ Barks?  
+				{ Yellow?  
+					{ Zheltaya }
+					{ Chornaya }
 				}
-				{Poltorashka}
+				{ Poltorashka }
 			}
 		}
-		{Organized muder od Ded?
-			{Sosanya}
-			{Beatiful starosta? 
-				{Masha}
-				{Perform shinus? 
-					{Tima}
-					{Ask your name? 
-						{Filkin}
-						{Ilya Mirkis}
+		{ Organized muder od Ded? 
+			{ Sosanya }
+			{ Beatiful starosta?  
+				{ Masha }
+				{ Perform shinus?  
+					{ Tima }
+					{ Ask your name?  
+						{ Filkin }
+						{ Ilya Mirkis }
 					}
 				}
 			}
