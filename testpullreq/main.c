@@ -2,6 +2,6 @@
 
 int main (void)
 {
-    char* filename = "../AkiTree.txt";
+    char* filename = "AkiTree.txt";
     return ScanAllTree (filename);
 }
