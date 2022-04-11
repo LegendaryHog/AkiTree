@@ -1,54 +1,54 @@
 
-{ Teacher in MIPT?  
-	{ Performs obshesos?  
-		{ Parses two zero group problems per seminar?  
+{ Teacher in MIPT?
+	{ Performs obshesos?
+		{ Parses two zero group problems per seminar?
 			{ Zhabin }
-			{ Fucks students on labs? 
-				{ All things fly in space?  
+			{ Fucks students on labs?
+				{ All things fly in space?
 					{ Potapov }
 					{ Alyabieva }
 				}
 				{ HOLLYn }
 			}
 		}
-		{ Performs matan?  
-			{ Arabic?  
+		{ Performs matan?
+			{ Arabic?
 				{ Petrovich }
-				{ Proger?  
+				{ Proger?
 					{ Churbanov }
 					{ Skubachevich }
 				}
 			}
-			{ Likes My Little Pony?  
+			{ Likes My Little Pony?
 				{ Vladimirov }
-				{ True Zhopa Contest System?  
+				{ True Zhopa Contest System?
 					{ Podlesnykh }
 					{ Ded }
 				}
 			}
 		}
 	}
-	{ Animal?  
-		{ Lives in swapm?  
-			{ can qua? 
+	{ Animal?
+		{ Lives in swapm?
+			{ can qua?
 				{ Zaba }
 				{ Ovcnikin }
 			}
-			{ Barks?  
-				{ Yellow?  
+			{ Barks?
+				{ Yellow?
 					{ Zheltaya }
 					{ Chornaya }
 				}
 				{ Poltorashka }
 			}
 		}
-		{ Organized murder od Ded? 
+		{ Organized murder od Ded?
 			{ Sosanya }
-			{ Beatiful starosta?  
+			{ Beatiful starosta?
 				{ Masha }
-				{ Perform shinus?  
+				{ Perform shinus?
 					{ Tima }
-					{ Ask your name?  
+					{ Ask your name?
 						{ Filkin }
 						{ Ilya Mirkis }
 					}
