@@ -29,6 +29,11 @@ git remote set-url origin <url on your forked repository>
 Include `AkiTree.h` in **main** file (if you include in another file, you can take compilation error about double definition)
 Change file for reading tree on `AkiTree/AkiTree.txt`. In start of programm call function `Pull ()` in end of programm `Push ()`.
 
+After work pull request by command:
+```
+hub -C AkiTree/ pull-request -f -b "LegenadaryHog:master" -m "pee pee poo poo"
+```
+
 # !!!WARNING!!! !!!ALLERT!!!
 
 1. If your Akinator cannot work correct and damaging dump of tree dont use `Push ()`.
