@@ -13,7 +13,7 @@ void Push (void)
     system ("git -C AkiTree/ add AkiTree.txt\n");
     system ("git -C AkiTree/ commit -m \"Fun\"\n");
     system ("git -C AkiTree/ push origin master\n");
-    system ("hub -C AkiTree/ pull-request -f -b \"LegenadaryHog:master\" -m \"pee pee poo poo\"\n");
+    system ("hub -C AkiTree/ pull-request -f -b \"LegendaryHog:master\" -m \"pee pee poo poo\"\n");
 }
 
 #endif 
