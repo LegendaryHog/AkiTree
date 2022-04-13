@@ -2,28 +2,28 @@
 { Teacher in MIPT?    
 	{ Performs obshesos?    
 		{ Parses two zero group problems per seminar?    
-			{ Zhabin   }
+			{ Zhabin }
 			{ Fucks students on labs?   
 				{ All things fly in space?    
-					{ Potapov   }
-					{ Alyabieva   }
+					{ Potapov }
+					{ Alyabieva }
 				}
-				{ HOLLYn   }
+				{ HOLLYn }
 			}
 		}
 		{ Performs matan?    
 			{ Arabic?    
-				{ Petrovich   }
+				{ Petrovich }
 				{ Proger?    
-					{ Churbanov   }
-					{ Skubachevich   }
+					{ Churbanov }
+					{ Skubachevich }
 				}
 			}
 			{ Likes My Little Pony?    
-				{ Vladimirov   }
+				{ Vladimirov }
 				{ True Zhopa Contest System?    
-					{ Podlesnykh   }
-					{ Ded   }
+					{ Podlesnykh }
+					{ Ded }
 				}
 			}
 		}
@@ -31,28 +31,28 @@
 	{ Animal?    
 		{ Lives in swapm?    
 			{ can qua?   
-				{ Zaba   }
-				{ Ovcnikin   }
+				{ Zaba }
+				{ Ovcnikin }
 			}
 			{ Barks?    
 				{ Yellow?    
-					{ Zheltaya   }
-					{ Chornaya   }
+					{ Zheltaya }
+					{ Chornaya }
 				}
-				{ Poltorashka   }
+				{ Poltorashka }
 			}
 		}
 		{ Organized murder od Ded?   
-			{ Sosanya   }
+			{ Sosanya }
 			{ Beatiful starosta?    
-				{ Masha   }
+				{ Masha }
 				{ Perform shinus?    
-					{ Tima   }
+					{ Tima }
 					{ Ask your name?    
-						{ Filkin   }
+						{ Filkin }
 						{ chmo? 
 							{ Dimas }
-							{ Ilya Mirkis   }
+							{ Ilya Mirkis }
 						}
 					}
 				}
