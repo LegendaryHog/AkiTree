@@ -39,7 +39,10 @@
 					{ Zheltaya }
 					{ Chornaya }
 				}
-				{ Poltorashka }
+				{ Prostitute?
+					{ LPHI cat}
+					{ Poltorashka }
+				}
 			}
 		}
 		{ Organized murder od Ded?   
